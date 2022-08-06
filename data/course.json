@@ -1,0 +1,188 @@
+{
+  "courses": [
+    {
+      "name": "C++",
+      "code": "CSC 211 ftft",
+      "shift": "Day",
+      "time": "11.10-12-10",
+      "section": "A",
+      "day": "Monday",
+      "instructor": "Shoili",
+      "seats": 26,
+      "credit_hour": "3",
+      "id": 1
+    },
+    {
+      "name": "C++",
+      "code": "CSC 211",
+      "shift": "Day",
+      "time": "11.10-12-10",
+      "section": "A",
+      "day": "Tuesday",
+      "instructor": "Shoili",
+      "seats": 25,
+      "credit_hour": "3",
+      "id": 2
+    },
+    {
+      "name": "Career Planning",
+      "code": "CSC 290",
+      "shift": "Day",
+      "time": "10.00-11.00",
+      "section": "B",
+      "day": "Sunday",
+      "instructor": "Angelina",
+      "seats": 13,
+      "credit_hour": "3",
+      "id": 3
+    },
+    {
+      "name": "Career Planning",
+      "code": "CSC 290",
+      "shift": "Day",
+      "time": "11.10-12.10",
+      "section": "B",
+      "day": "Tuesday",
+      "instructor": "Angelina",
+      "seats": 13,
+      "credit_hour": "3",
+      "id": 4
+    },
+    {
+      "name": "Career Planning",
+      "code": "CSC 290",
+      "shift": "Day",
+      "time": "1.10-2.10",
+      "section": "B",
+      "day": "Thursday",
+      "instructor": "Angelina",
+      "seats": 13,
+      "credit_hour": "3",
+      "id": 5
+    },
+    {
+      "name": "C Sharp",
+      "code": "CSC 240",
+      "shift": "Day",
+      "time": "12.00-1.10",
+      "section": "A",
+      "day": "Sunday",
+      "instructor": "SaKil",
+      "seats": 30,
+      "credit_hour": "2",
+      "id": 6
+    },
+    {
+      "name": "C Sharp",
+      "code": "CSC 240",
+      "shift": "Day",
+      "time": "10.00-11.00",
+      "section": "A",
+      "day": "Monday",
+      "instructor": "SaKil",
+      "seats": 30,
+      "credit_hour": "2",
+      "id": 7
+    },
+    {
+      "name": "C Sharp",
+      "code": "CSC 240",
+      "shift": "Day",
+      "time": "3.00-4.00",
+      "section": "A",
+      "day": "Wednesday",
+      "instructor": "SaKil",
+      "seats": 30,
+      "credit_hour": "2",
+      "id": 8
+    }
+  ],
+  "student-list": [
+    {
+      "credit": 3,
+      "name": "Angelina Rozario",
+      "id": "19103197",
+      "department": "BCSE",
+      "email": "shoili.rozario@gmail.com",
+      "mobile": "01874640411",
+      "cgpa": "3.88",
+      "status": "Excellent",
+      "pass": "shoili123"
+    },
+    {
+      "credit": 0,
+      "name": "Shahanaz Akter",
+      "id": "19103161",
+      "department": "BCSE",
+      "email": "shahanaz1999m@gmail.com",
+      "mobile": "01836549236",
+      "cgpa": "3.66",
+      "status": "Excellent",
+      "pass": "mimi123"
+    },
+    {
+      "credit": 0,
+      "name": "Alamin Akon",
+      "id": "18103301",
+      "department": "BCSE",
+      "email": "alaminakon951@gmail.com",
+      "mobile": "437345754",
+      "cgpa": "3.50",
+      "status": "Excellent",
+      "pass": "akon123"
+    },
+    {
+      "credit": 0,
+      "name": "Hasan Talukder",
+      "id": "17103337",
+      "department": "BCSE",
+      "email": "mahadihasansiam2@gmail.com",
+      "mobile": "123456789",
+      "cgpa": "3.67",
+      "status": "Excellent",
+      "pass": "hasan123"
+    },
+    {
+      "credit": 0,
+      "name": "Rahat Islam",
+      "id": "12345",
+      "department": "BCSE",
+      "email": "rahat@gmail.com",
+      "mobile": "123456789",
+      "cgpa": "3.67",
+      "status": "Excellent",
+      "pass": "rahat123"
+    },
+    {
+      "credit": 0,
+      "name": "Rahul",
+      "id": "123",
+      "department": "BCSE",
+      "email": "rahul@gmail.com",
+      "mobile": "123456789",
+      "cgpa": "1.67",
+      "status": "Probation",
+      "pass": "rahul123"
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "pass": "admin123"
+    }
+  ],
+  "enrolled-courses": [
+    {
+      "stu_id": "",
+      "id": 1,
+      "code": ""
+    },
+    {
+      "stu_id": "19103197",
+      "code": "CSC 211",
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 10px;
+}
+.admin-course-list table {
+  border-collapse: collapse;
+  width: 60%;
+  margin: 20px auto;
+}
+.admin-course-list td,
+.admin-course-list tr,
+.admin-course-list th {
+  border: 1px solid black;
+  padding: 0.5em;
+}
+.admin-course-list h1 {
+  text-align: center;
+}
+.admin-course-list tr input {
+  width: 100%;
+  outline: none;
+  border: none;
+  background-color: bisque;
+}
+.admin-course-list input[placeholder] {
+  text-align: center;
+  color: black;
+}

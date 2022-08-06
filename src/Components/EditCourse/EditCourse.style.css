@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.edit-course h1 {
+  color: green;
+  text-align: center;
+}
+.edit-course .add-course-form {
+  padding: 14px;
+  background-color: green;
+  width: 35%;
+  margin: 20px auto;
+  border-radius: 5px;
+  box-shadow: 40px black;
+}
+.edit-course .align {
+  border: 2px solid black;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.edit-course .align b {
+  font-size: 15px;
+}
+.edit-course label {
+  color: white;
+  padding: 10px 0px;
+  margin-left: 20px;
+  width: 30%;
+  /* border: 1px solid black; */
+}
+.edit-course .day {
+  color: bisque;
+}
+.edit-course .txt-field input {
+  text-align: center;
+  width: 70%;
+  height: 7vh;
+  border-radius: 10px;
+}
+.edit-course .txt-field {
+  display: flex;
+}
+
+.edit-course .submit-course {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.edit-course .submit-course button {
+  background-color: red;
+  color: white;
+  border: none;
+  outline: none;
+  padding: 1em;
+  border-radius: 0.5em;
+  margin-top: 10px;
+}

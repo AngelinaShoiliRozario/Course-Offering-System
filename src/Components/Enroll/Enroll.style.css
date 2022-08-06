@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.enroll {
+  text-align: center;
+  border: 2px solid #0a3c53;
+  width: 50%;
+  margin: 30px auto;
+  padding: 50px;
+  border-radius: 16px;
+}
+.enroll .loading {
+  color: green;
+}
+.enroll .unable-enroll {
+  color: red;
+  font-weight: 900;
+}
+.enroll .enroll-btn {
+  background-color: green;
+  padding: 1em;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+.already-taken-course {
+  color: red;
+  font-weight: 900;
+}
+.enroll-course-helper .enroll-course-name {
+  color: green;
+}

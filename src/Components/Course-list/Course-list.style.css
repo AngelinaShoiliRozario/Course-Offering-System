@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 10px;
+}
+table {
+  border-collapse: collapse;
+  width: 60%;
+  margin: 20px auto;
+}
+td,
+tr,
+th {
+  border: 1px solid black;
+  padding: 0.5em;
+}
+.course-enrollment h1 {
+  text-align: center;
+}
+tr input {
+  width: 100%;
+  outline: none;
+  border: none;
+  background-color: bisque;
+}
+input[placeholder] {
+  text-align: center;
+  color: black;
+}
+.course-enrollment .probation-student {
+  text-align: center;
+  color: red;
+}

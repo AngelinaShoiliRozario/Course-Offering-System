@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 10px;
+}
+
+.studentHome .system-name {
+  text-align: center;
+  font-size: 2em;
+}
+.bar {
+  position: sticky;
+  top: 0;
+  background-color: #0a3c53;
+  padding: 10px;
+}
+.content {
+  margin-left: auto;
+  width: 25%;
+}
+.links {
+  display: flex;
+  margin-left: auto;
+}
+.links a {
+  margin-left: 5px;
+  text-decoration: none;
+  color: white;
+  padding: 5px;
+  border-radius: 3px;
+}
+
+.information {
+  padding: 7px;
+  border: 1px solid black;
+
+  width: 60%;
+  margin: 5px auto;
+}
+.middle b {
+  color: rgb(163, 25, 67);
+  border-bottom: 1px solid red;
+  font-size: 1em;
+}
+.middle b:hover {
+  cursor: pointer;
+}
+.upper {
+  padding: 8px;
+  font-size: 1em;
+  font-weight: bold;
+}
+.middle {
+  padding: 8px;
+  text-align: justify;
+}
+.middle p {
+  font-size: 1em;
+}
+.note {
+  padding: 8px;
+}
+.note p {
+  font-size: 0.7em;
+}
+.result-status {
+  text-align: center;
+}
+.result-status .header {
+  color: white;
+  background-color: rgb(13, 180, 209);
+  padding: 0.6em;
+}
+.result-status .values div,
+.result-status .values p {
+  font-size: 0.7em;
+}
+.course-enrollment button {
+  font-size: 0.8em;
+  background-color: #09567a;
+  color: white;
+  padding: 6px;
+  outline: none;
+  border: none;
+  border-radius: 2px;
+}
+.course-enrollment button:hover {
+  background-color: #06212e;
+  cursor: pointer;
+}

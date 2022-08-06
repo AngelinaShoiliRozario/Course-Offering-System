@@ -1,0 +1,40 @@
+#course-list-navbar {
+  position: sticky;
+  top: 0;
+  padding: 7px;
+  background-color: #0a3c53;
+}
+.active {
+  background-color: #06212e;
+}
+.links a:hover {
+  cursor: pointer;
+}
+
+#course-list-navbar .links1 {
+  margin-left: auto;
+  width: 50%;
+  display: flex;
+}
+#course-list-navbar .links1 a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 5px;
+  font-size: 12px;
+  color: white;
+}
+#course-list-navbar .links1 .item a:hover {
+  cursor: pointer;
+  background-color: #06212e;
+  border-radius: 5px;
+  height: 100%;
+  width: 100%;
+}
+
+#course-list-navbar .item {
+  margin-left: 10px;
+}
+.log-out a:hover {
+  background-color: red;
+  border-radius: 5px;
+}

@@ -1,0 +1,4 @@
+.select-course:hover {
+  cursor: pointer;
+  color: red;
+}
